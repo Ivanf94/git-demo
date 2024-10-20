@@ -12,3 +12,5 @@ dodatak za feature branch
 
 dodatak za main
 
+dodatak za feature u conflict solving
+
