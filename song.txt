@@ -10,3 +10,5 @@ osma pisma
 ---------------------
 dodatak za feature branch
 
+dodatak za main
+
