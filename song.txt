@@ -10,3 +10,4 @@ osma pisma
 ---------------------
 dodatak za feature branch
 
+dodatak za feature u conflict solving
